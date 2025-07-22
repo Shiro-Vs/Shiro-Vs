@@ -60,8 +60,8 @@ Análisis de herramientas, scripts y conceptos de ethical hacking, SQLi, XSS y p
 
 ## 📈 Estadísticas de GitHub
 
-![Shiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=shirovs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirovs&layout=compact&theme=radical)
+![Shiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiro-VS&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-Vs&layout=compact&theme=radical)
 
 ---
 
