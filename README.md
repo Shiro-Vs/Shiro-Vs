@@ -10,19 +10,17 @@ Actualmente también me interesa la **ciberseguridad**, la programación orienta
 
 **Lenguajes**
 - Java ☕ – Swing, JDBC, conexión con MySQL
-- JavaScript ⚡ – Vanilla JS y React
+- JavaScript ⚡
 - Python 🐍 – Scripts, clases y acceso a bases de datos
-- C# y Scala 🔧 – Proyectos académicos de POO
 - HTML5 & CSS3 🎨 – Diseño web desde cero
 - SQL – Consultas y diseño de bases de datos relacionales
-- VBA – Automatización de tareas en Excel
 
 **Frameworks y herramientas**
 - React, Vite, Tailwind CSS
 - Java Swing (GUI), NetBeans
-- MySQL, phpMyAdmin
+- MySQL
 - Git y GitHub
-- Visual Studio Code, Excel, Postman
+- Visual Studio Code, Excel
 
 ---
 
