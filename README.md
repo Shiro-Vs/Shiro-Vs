@@ -149,8 +149,8 @@ Contribución al desarrollo del juego narrativo Threadbare durante el **GamLab 5
 
 <div align="center">
 
-![Stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Shiro-Vs&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Shiro-Vs&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Shiro-Vs&show_icons=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=7ee787&text_color=c9d1d9&border_color=2a3350)
+![Top Languages](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Shiro-Vs&layout=compact&hide_border=false&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=2a3350)
 
 </div>
 
