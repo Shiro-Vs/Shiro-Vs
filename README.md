@@ -46,6 +46,9 @@ Disponible para colaborar en proyectos interesantes 🚀
 
 <table width="100%">
 <tr>
+<td colspan="2"><img src="./assets/spacer.png" width="1600" height="1" alt="" /></td>
+</tr>
+<tr>
 <td width="75%" valign="top">
 
 <table width="100%">
