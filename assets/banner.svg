@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" width="100%" role="img" aria-label="ShiroVS terminal banner">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 560" width="100%" role="img" aria-label="ShiroVS terminal banner">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0b0f1a"/>
@@ -9,26 +9,31 @@
       <stop offset="0%" stop-color="#241a3a"/>
       <stop offset="100%" stop-color="#0b0f1a"/>
     </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#7ee7e0"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
     <clipPath id="windowClip">
-      <rect x="0" y="0" width="1600" height="420" rx="14"/>
+      <rect x="0" y="0" width="1600" height="560" rx="14"/>
     </clipPath>
   </defs>
 
   <g clip-path="url(#windowClip)">
-    <rect width="1600" height="420" fill="url(#bg)"/>
+    <rect width="1600" height="560" fill="url(#bg)"/>
 
     <!-- skyline silhouette -->
     <g fill="url(#skyline)" opacity="0.6">
-      <rect x="1120" y="230" width="40" height="190"/>
-      <rect x="1170" y="180" width="30" height="240"/>
-      <rect x="1210" y="250" width="55" height="170"/>
-      <rect x="1275" y="150" width="25" height="270"/>
-      <rect x="1310" y="210" width="45" height="210"/>
-      <rect x="1365" y="260" width="35" height="160"/>
-      <rect x="1410" y="190" width="28" height="230"/>
-      <rect x="1450" y="240" width="60" height="180"/>
-      <rect x="1520" y="200" width="30" height="220"/>
-      <rect x="1560" y="255" width="40" height="165"/>
+      <rect x="1120" y="370" width="40" height="190"/>
+      <rect x="1170" y="320" width="30" height="240"/>
+      <rect x="1210" y="390" width="55" height="170"/>
+      <rect x="1275" y="290" width="25" height="270"/>
+      <rect x="1310" y="350" width="45" height="210"/>
+      <rect x="1365" y="400" width="35" height="160"/>
+      <rect x="1410" y="330" width="28" height="230"/>
+      <rect x="1450" y="380" width="60" height="180"/>
+      <rect x="1520" y="340" width="30" height="220"/>
+      <rect x="1560" y="395" width="40" height="165"/>
     </g>
 
     <!-- title bar -->
@@ -38,47 +43,189 @@
     <circle cx="86" cy="28" r="9" fill="#27c93f"/>
     <text x="800" y="34" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" fill="#8b93a7">cmd — ShiroVS</text>
 
-    <text x="80" y="248" font-family="'Courier New', monospace" font-size="32" fill="#7ee787" opacity="0">
+    <!-- pixel-art title: pure vector geometry, no text/font dependency -->
+    <g>
+      <g transform="translate(3,3)" fill="#000000" opacity="0.4">
+        <rect x="70.0" y="92.0" width="76.2" height="13.6"/>
+        <rect x="162.4" y="92.0" width="42.6" height="13.6"/>
+        <rect x="263.2" y="92.0" width="25.8" height="13.6"/>
+        <rect x="464.8" y="92.0" width="42.6" height="13.6"/>
+        <rect x="532.0" y="92.0" width="42.6" height="13.6"/>
+        <rect x="590.8" y="92.0" width="76.2" height="13.6"/>
+        <rect x="78.4" y="105.0" width="135.0" height="13.6"/>
+        <rect x="271.6" y="105.0" width="25.8" height="13.6"/>
+        <rect x="473.2" y="105.0" width="42.6" height="13.6"/>
+        <rect x="540.4" y="105.0" width="42.6" height="13.6"/>
+        <rect x="599.2" y="105.0" width="93.0" height="13.6"/>
+        <rect x="70.0" y="118.0" width="34.2" height="13.6"/>
+        <rect x="137.2" y="118.0" width="25.8" height="13.6"/>
+        <rect x="179.2" y="118.0" width="67.8" height="13.6"/>
+        <rect x="271.6" y="118.0" width="34.2" height="13.6"/>
+        <rect x="322.0" y="118.0" width="67.8" height="13.6"/>
+        <rect x="414.4" y="118.0" width="51.0" height="13.6"/>
+        <rect x="481.6" y="118.0" width="34.2" height="13.6"/>
+        <rect x="548.8" y="118.0" width="34.2" height="13.6"/>
+        <rect x="590.8" y="118.0" width="34.2" height="13.6"/>
+        <rect x="658.0" y="118.0" width="25.8" height="13.6"/>
+        <rect x="70.0" y="131.0" width="93.0" height="13.6"/>
+        <rect x="179.2" y="131.0" width="76.2" height="13.6"/>
+        <rect x="263.2" y="131.0" width="42.6" height="13.6"/>
+        <rect x="313.6" y="131.0" width="84.6" height="13.6"/>
+        <rect x="406.0" y="131.0" width="67.8" height="13.6"/>
+        <rect x="481.6" y="131.0" width="34.2" height="13.6"/>
+        <rect x="548.8" y="131.0" width="34.2" height="13.6"/>
+        <rect x="590.8" y="131.0" width="93.0" height="13.6"/>
+        <rect x="78.4" y="144.0" width="93.0" height="13.6"/>
+        <rect x="179.2" y="144.0" width="34.2" height="13.6"/>
+        <rect x="221.2" y="144.0" width="34.2" height="13.6"/>
+        <rect x="271.6" y="144.0" width="34.2" height="13.6"/>
+        <rect x="322.0" y="144.0" width="34.2" height="13.6"/>
+        <rect x="364.0" y="144.0" width="25.8" height="13.6"/>
+        <rect x="397.6" y="144.0" width="34.2" height="13.6"/>
+        <rect x="439.6" y="144.0" width="34.2" height="13.6"/>
+        <rect x="481.6" y="144.0" width="42.6" height="13.6"/>
+        <rect x="548.8" y="144.0" width="25.8" height="13.6"/>
+        <rect x="599.2" y="144.0" width="93.0" height="13.6"/>
+        <rect x="78.4" y="157.0" width="25.8" height="13.6"/>
+        <rect x="137.2" y="157.0" width="34.2" height="13.6"/>
+        <rect x="179.2" y="157.0" width="34.2" height="13.6"/>
+        <rect x="221.2" y="157.0" width="34.2" height="13.6"/>
+        <rect x="271.6" y="157.0" width="34.2" height="13.6"/>
+        <rect x="322.0" y="157.0" width="34.2" height="13.6"/>
+        <rect x="397.6" y="157.0" width="34.2" height="13.6"/>
+        <rect x="439.6" y="157.0" width="34.2" height="13.6"/>
+        <rect x="490.0" y="157.0" width="76.2" height="13.6"/>
+        <rect x="599.2" y="157.0" width="25.8" height="13.6"/>
+        <rect x="658.0" y="157.0" width="34.2" height="13.6"/>
+        <rect x="70.0" y="170.0" width="93.0" height="13.6"/>
+        <rect x="179.2" y="170.0" width="34.2" height="13.6"/>
+        <rect x="221.2" y="170.0" width="42.6" height="13.6"/>
+        <rect x="271.6" y="170.0" width="42.6" height="13.6"/>
+        <rect x="322.0" y="170.0" width="42.6" height="13.6"/>
+        <rect x="397.6" y="170.0" width="67.8" height="13.6"/>
+        <rect x="506.8" y="170.0" width="42.6" height="13.6"/>
+        <rect x="590.8" y="170.0" width="93.0" height="13.6"/>
+        <rect x="78.4" y="183.0" width="76.2" height="13.6"/>
+        <rect x="170.8" y="183.0" width="34.2" height="13.6"/>
+        <rect x="212.8" y="183.0" width="42.6" height="13.6"/>
+        <rect x="263.2" y="183.0" width="42.6" height="13.6"/>
+        <rect x="313.6" y="183.0" width="42.6" height="13.6"/>
+        <rect x="406.0" y="183.0" width="51.0" height="13.6"/>
+        <rect x="515.2" y="183.0" width="25.8" height="13.6"/>
+        <rect x="599.2" y="183.0" width="76.2" height="13.6"/>
+      </g>
+      <g fill="url(#titleGrad)">
+        <rect x="70.0" y="92.0" width="76.2" height="13.6"/>
+        <rect x="162.4" y="92.0" width="42.6" height="13.6"/>
+        <rect x="263.2" y="92.0" width="25.8" height="13.6"/>
+        <rect x="464.8" y="92.0" width="42.6" height="13.6"/>
+        <rect x="532.0" y="92.0" width="42.6" height="13.6"/>
+        <rect x="590.8" y="92.0" width="76.2" height="13.6"/>
+        <rect x="78.4" y="105.0" width="135.0" height="13.6"/>
+        <rect x="271.6" y="105.0" width="25.8" height="13.6"/>
+        <rect x="473.2" y="105.0" width="42.6" height="13.6"/>
+        <rect x="540.4" y="105.0" width="42.6" height="13.6"/>
+        <rect x="599.2" y="105.0" width="93.0" height="13.6"/>
+        <rect x="70.0" y="118.0" width="34.2" height="13.6"/>
+        <rect x="137.2" y="118.0" width="25.8" height="13.6"/>
+        <rect x="179.2" y="118.0" width="67.8" height="13.6"/>
+        <rect x="271.6" y="118.0" width="34.2" height="13.6"/>
+        <rect x="322.0" y="118.0" width="67.8" height="13.6"/>
+        <rect x="414.4" y="118.0" width="51.0" height="13.6"/>
+        <rect x="481.6" y="118.0" width="34.2" height="13.6"/>
+        <rect x="548.8" y="118.0" width="34.2" height="13.6"/>
+        <rect x="590.8" y="118.0" width="34.2" height="13.6"/>
+        <rect x="658.0" y="118.0" width="25.8" height="13.6"/>
+        <rect x="70.0" y="131.0" width="93.0" height="13.6"/>
+        <rect x="179.2" y="131.0" width="76.2" height="13.6"/>
+        <rect x="263.2" y="131.0" width="42.6" height="13.6"/>
+        <rect x="313.6" y="131.0" width="84.6" height="13.6"/>
+        <rect x="406.0" y="131.0" width="67.8" height="13.6"/>
+        <rect x="481.6" y="131.0" width="34.2" height="13.6"/>
+        <rect x="548.8" y="131.0" width="34.2" height="13.6"/>
+        <rect x="590.8" y="131.0" width="93.0" height="13.6"/>
+        <rect x="78.4" y="144.0" width="93.0" height="13.6"/>
+        <rect x="179.2" y="144.0" width="34.2" height="13.6"/>
+        <rect x="221.2" y="144.0" width="34.2" height="13.6"/>
+        <rect x="271.6" y="144.0" width="34.2" height="13.6"/>
+        <rect x="322.0" y="144.0" width="34.2" height="13.6"/>
+        <rect x="364.0" y="144.0" width="25.8" height="13.6"/>
+        <rect x="397.6" y="144.0" width="34.2" height="13.6"/>
+        <rect x="439.6" y="144.0" width="34.2" height="13.6"/>
+        <rect x="481.6" y="144.0" width="42.6" height="13.6"/>
+        <rect x="548.8" y="144.0" width="25.8" height="13.6"/>
+        <rect x="599.2" y="144.0" width="93.0" height="13.6"/>
+        <rect x="78.4" y="157.0" width="25.8" height="13.6"/>
+        <rect x="137.2" y="157.0" width="34.2" height="13.6"/>
+        <rect x="179.2" y="157.0" width="34.2" height="13.6"/>
+        <rect x="221.2" y="157.0" width="34.2" height="13.6"/>
+        <rect x="271.6" y="157.0" width="34.2" height="13.6"/>
+        <rect x="322.0" y="157.0" width="34.2" height="13.6"/>
+        <rect x="397.6" y="157.0" width="34.2" height="13.6"/>
+        <rect x="439.6" y="157.0" width="34.2" height="13.6"/>
+        <rect x="490.0" y="157.0" width="76.2" height="13.6"/>
+        <rect x="599.2" y="157.0" width="25.8" height="13.6"/>
+        <rect x="658.0" y="157.0" width="34.2" height="13.6"/>
+        <rect x="70.0" y="170.0" width="93.0" height="13.6"/>
+        <rect x="179.2" y="170.0" width="34.2" height="13.6"/>
+        <rect x="221.2" y="170.0" width="42.6" height="13.6"/>
+        <rect x="271.6" y="170.0" width="42.6" height="13.6"/>
+        <rect x="322.0" y="170.0" width="42.6" height="13.6"/>
+        <rect x="397.6" y="170.0" width="67.8" height="13.6"/>
+        <rect x="506.8" y="170.0" width="42.6" height="13.6"/>
+        <rect x="590.8" y="170.0" width="93.0" height="13.6"/>
+        <rect x="78.4" y="183.0" width="76.2" height="13.6"/>
+        <rect x="170.8" y="183.0" width="34.2" height="13.6"/>
+        <rect x="212.8" y="183.0" width="42.6" height="13.6"/>
+        <rect x="263.2" y="183.0" width="42.6" height="13.6"/>
+        <rect x="313.6" y="183.0" width="42.6" height="13.6"/>
+        <rect x="406.0" y="183.0" width="51.0" height="13.6"/>
+        <rect x="515.2" y="183.0" width="25.8" height="13.6"/>
+        <rect x="599.2" y="183.0" width="76.2" height="13.6"/>
+      </g>
+    </g>
+
+    <text x="80" y="410" font-family="'Courier New', monospace" font-size="32" fill="#7ee787" opacity="0">
       <tspan>&gt; Full-Stack Developer</tspan>
       <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.018;0.232;0.25;1" dur="10.0s" repeatCount="indefinite"/>
     </text>
-    <text x="80" y="248" font-family="'Courier New', monospace" font-size="32" fill="#7ee787" opacity="0">
+    <text x="80" y="410" font-family="'Courier New', monospace" font-size="32" fill="#7ee787" opacity="0">
       <tspan>&gt; Cofundador @ Vexa</tspan>
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.268;0.482;0.5;1" dur="10.0s" repeatCount="indefinite"/>
     </text>
-    <text x="80" y="248" font-family="'Courier New', monospace" font-size="32" fill="#7ee787" opacity="0">
+    <text x="80" y="410" font-family="'Courier New', monospace" font-size="32" fill="#7ee787" opacity="0">
       <tspan>&gt; Building EVA &amp; Fivuza</tspan>
       <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.518;0.732;0.75;1" dur="10.0s" repeatCount="indefinite"/>
     </text>
-    <text x="80" y="248" font-family="'Courier New', monospace" font-size="32" fill="#7ee787" opacity="0">
+    <text x="80" y="410" font-family="'Courier New', monospace" font-size="32" fill="#7ee787" opacity="0">
       <tspan>&gt; Lima, Peru</tspan>
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.768;0.982;1.0" dur="10.0s" repeatCount="indefinite"/>
     </text>
 
-    <rect x="720" y="222" width="16" height="34" fill="#7ee787">
+    <rect x="720" y="384" width="16" height="34" fill="#7ee787">
       <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1s" repeatCount="indefinite"/>
     </rect>
 
     <!-- status bar -->
     <g font-family="'Courier New', monospace" font-size="18">
-      <rect x="24" y="368" width="150" height="34" rx="17" fill="#a78bfa"/>
-      <text x="99" y="390" text-anchor="middle" fill="#1b1030" font-weight="bold">ShiroVS</text>
+      <rect x="24" y="508" width="150" height="34" rx="17" fill="#a78bfa"/>
+      <text x="99" y="530" text-anchor="middle" fill="#1b1030" font-weight="bold">ShiroVS</text>
 
-      <path d="M174 368 l17 17 l-17 17 z" fill="#f472b6"/>
-      <rect x="191" y="368" width="110" height="34" rx="17" fill="#f472b6"/>
-      <text x="246" y="390" text-anchor="middle" fill="#1b1030" font-weight="bold">~/vexa</text>
+      <path d="M174 508 l17 17 l-17 17 z" fill="#f472b6"/>
+      <rect x="191" y="508" width="110" height="34" rx="17" fill="#f472b6"/>
+      <text x="246" y="530" text-anchor="middle" fill="#1b1030" font-weight="bold">~/vexa</text>
 
-      <path d="M301 368 l17 17 l-17 17 z" fill="#38bdf8"/>
-      <rect x="318" y="368" width="130" height="34" rx="17" fill="#38bdf8"/>
-      <text x="383" y="390" text-anchor="middle" fill="#0b0f1a" font-weight="bold">build ok</text>
+      <path d="M301 508 l17 17 l-17 17 z" fill="#38bdf8"/>
+      <rect x="318" y="508" width="130" height="34" rx="17" fill="#38bdf8"/>
+      <text x="383" y="530" text-anchor="middle" fill="#0b0f1a" font-weight="bold">build ok</text>
 
-      <rect x="1330" y="368" width="90" height="34" rx="17" fill="#27c93f"/>
-      <text x="1375" y="390" text-anchor="middle" fill="#0b0f1a" font-weight="bold">online</text>
+      <rect x="1330" y="508" width="90" height="34" rx="17" fill="#27c93f"/>
+      <text x="1375" y="530" text-anchor="middle" fill="#0b0f1a" font-weight="bold">online</text>
 
-      <rect x="1428" y="368" width="148" height="34" rx="17" fill="#0d1117" stroke="#2a3350"/>
-      <text x="1502" y="390" text-anchor="middle" fill="#8b93a7">GMT-5 · Lima</text>
+      <rect x="1428" y="508" width="148" height="34" rx="17" fill="#0d1117" stroke="#2a3350"/>
+      <text x="1502" y="530" text-anchor="middle" fill="#8b93a7">GMT-5 · Lima</text>
     </g>
   </g>
 
-  <rect x="1" y="1" width="1598" height="418" rx="14" fill="none" stroke="#2a3350" stroke-width="2"/>
+  <rect x="1" y="1" width="1598" height="558" rx="14" fill="none" stroke="#2a3350" stroke-width="2"/>
 </svg>
