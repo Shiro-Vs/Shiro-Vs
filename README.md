@@ -48,10 +48,10 @@ Disponible para colaborar en proyectos interesantes 🚀
 
 <table>
 <tr>
-<td valign="top" width="25%"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=react,ts,angular,vite,tailwind" alt="React, TypeScript, Angular, Vite, Tailwind" /></td>
-<td valign="top" width="25%"><b>Mobile</b><br/><br/><img src="https://skillicons.dev/icons?i=react,ts" alt="React Native, TypeScript" /><br/><sub>React Native · Expo</sub></td>
-<td valign="top" width="25%"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=java,spring,python,django,firebase" alt="Java, Spring Boot, Python, Django, Firebase" /></td>
-<td valign="top" width="25%"><b>DB & infra</b><br/><br/><img src="https://skillicons.dev/icons?i=mysql,docker,git" alt="MySQL, Docker, Git" /></td>
+<td valign="top"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=react,ts,angular,vite,tailwind" height="42" alt="React, TypeScript, Angular, Vite, Tailwind" /></td>
+<td valign="top"><b>Mobile</b><br/><br/><img src="https://skillicons.dev/icons?i=react,ts" height="42" alt="React Native, TypeScript" /><br/><sub>React Native · Expo</sub></td>
+<td valign="top"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=java,spring,python,django,firebase" height="42" alt="Java, Spring Boot, Python, Django, Firebase" /></td>
+<td valign="top"><b>DB & infra</b><br/><br/><img src="https://skillicons.dev/icons?i=mysql,docker,git" height="42" alt="MySQL, Docker, Git" /></td>
 </tr>
 </table>
 
@@ -68,10 +68,7 @@ Disponible para colaborar en proyectos interesantes 🚀
 ### 🏪 Fivuza
 ERP SaaS multi-tenant para pequeños y medianos negocios (bodegas, gimnasios, retail): inventario, ventas y usuarios por tenant.
 
-![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=django,react,ts,docker" height="26" alt="Django REST, React, TypeScript, Docker" />
 
 📂 [Frontend](https://github.com/vexa-dev/FivuzaFrontend) &nbsp;·&nbsp; [Backend](https://github.com/vexa-dev/FivuzaBackend)
 
@@ -81,10 +78,7 @@ ERP SaaS multi-tenant para pequeños y medianos negocios (bodegas, gimnasios, re
 ### 📈 Vantage
 Aplicación web de analítica de negocio con API REST en Spring Boot y frontend en React + TypeScript.
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,java,react,ts" height="26" alt="Spring Boot, Java, React, TypeScript" />
 
 📂 [Frontend](https://github.com/vexa-dev/VantageFrontend) &nbsp;·&nbsp; [Backend](https://github.com/vexa-dev/VantageBackend)
 
@@ -105,10 +99,7 @@ Aplicación web de analítica de negocio con API REST en Spring Boot y frontend 
 ### 💰 EVA
 App móvil de finanzas personales: metas de ahorro, planificación de gastos y asistente con IA (Gemini).
 
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=react,ts,firebase" height="26" alt="React Native, TypeScript, Firebase" /> <sub>+ Expo</sub>
 
 📂 [Ver repo](https://github.com/Shiro-Vs/EVA)
 
@@ -118,10 +109,7 @@ App móvil de finanzas personales: metas de ahorro, planificación de gastos y a
 ### 🚗 SAF Service
 Sistema de gestión para talleres automotrices: vehículos, clientes, empleados y fichas técnicas.
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,react,ts,mysql" height="26" alt="Spring Boot, React, TypeScript, MySQL" />
 
 📂 [Frontend](https://github.com/Shiro-Vs/Automotriz) &nbsp;·&nbsp; [Backend](https://github.com/Shiro-Vs/AutomotrizBackend)
 
@@ -133,10 +121,7 @@ Sistema de gestión para talleres automotrices: vehículos, clientes, empleados 
 ### 📦 SGI — Gestión de Inventarios
 API REST para inventario multi-sucursal (minimarkets) con control de acceso por roles (RBAC). Proyecto académico — UTP.
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,java,angular,mysql" height="26" alt="Spring Boot, Java, Angular, MySQL" />
 
 📂 [Frontend](https://github.com/Shiro-Vs/SGI-Frontend) &nbsp;·&nbsp; [Backend](https://github.com/Shiro-Vs/SGI-Backend)
 
@@ -146,8 +131,7 @@ API REST para inventario multi-sucursal (minimarkets) con control de acceso por 
 ### 🧵 Threadbare
 Contribución al desarrollo del juego narrativo Threadbare durante el **GamLab 5.0 UTP**.
 
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-355570?style=flat-square)
+<img src="https://skillicons.dev/icons?i=godot" height="26" alt="Godot" /> <sub>+ GDScript</sub>
 
 📂 [Ver repo](https://github.com/Game-Lab-5-0-UTP-Group-4-Team-2/threadbare)
 
