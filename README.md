@@ -23,7 +23,7 @@
 
 ---
 
-## 🧠 Stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%2338bdf8" width="24" height="24" align="absmiddle" alt="" /> Stack
 
 <img src="./assets/avatar.svg" width="150" align="right" alt="Shiro avatar" />
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 🚀 Vexa — mi startup
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23818cf8" width="24" height="24" align="absmiddle" alt="" /> Vexa — mi startup
 
 **[Vexa](https://vexa.space/)** es un estudio donde desarrollamos software a medida para negocios. Estos son productos que construimos ahí:
 
@@ -50,7 +50,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏪 Fivuza
+### <img src="https://api.iconify.design/lucide/store.svg?color=%23a78bfa" width="20" height="20" align="absmiddle" alt="" /> Fivuza
 ERP SaaS multi-tenant para pequeños y medianos negocios (bodegas, gimnasios, retail): inventario, ventas y usuarios por tenant.
 
 <img src="https://skillicons.dev/icons?i=django,react,ts,postgres,docker" height="26" alt="Django REST, React, TypeScript, PostgreSQL, Docker" />
@@ -60,7 +60,7 @@ ERP SaaS multi-tenant para pequeños y medianos negocios (bodegas, gimnasios, re
 </td>
 <td width="50%" valign="top">
 
-### 📈 Vantage
+### <img src="https://api.iconify.design/lucide/trending-up.svg?color=%23a78bfa" width="20" height="20" align="absmiddle" alt="" /> Vantage
 Aplicación web de analítica de negocio con API REST en Spring Boot y frontend en React + TypeScript.
 
 <img src="https://skillicons.dev/icons?i=spring,java,react,ts" height="26" alt="Spring Boot, Java, React, TypeScript" />
@@ -75,13 +75,13 @@ Aplicación web de analítica de negocio con API REST en Spring Boot y frontend 
 
 ---
 
-## 💻 Proyectos propios
+## <img src="https://api.iconify.design/lucide/laptop.svg?color=%2338bdf8" width="24" height="24" align="absmiddle" alt="" /> Proyectos propios
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💰 EVA
+### <img src="https://api.iconify.design/lucide/wallet.svg?color=%23a78bfa" width="20" height="20" align="absmiddle" alt="" /> EVA
 App móvil de finanzas personales: metas de ahorro, planificación de gastos y asistente con IA (Gemini).
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="21" alt="React Native" /> <img src="https://skillicons.dev/icons?i=ts,firebase" height="26" alt="TypeScript, Firebase" /> <img src="https://cdn.simpleicons.org/expo/ffffff" height="18" alt="Expo" />
@@ -91,7 +91,7 @@ App móvil de finanzas personales: metas de ahorro, planificación de gastos y a
 </td>
 <td width="50%" valign="top">
 
-### 🚗 SAF Service
+### <img src="https://api.iconify.design/lucide/car.svg?color=%23a78bfa" width="20" height="20" align="absmiddle" alt="" /> SAF Service
 Sistema de gestión para talleres automotrices: vehículos, clientes, empleados y fichas técnicas.
 
 <img src="https://skillicons.dev/icons?i=spring,react,ts,mysql" height="26" alt="Spring Boot, React, TypeScript, MySQL" />
@@ -103,7 +103,7 @@ Sistema de gestión para talleres automotrices: vehículos, clientes, empleados 
 <tr>
 <td width="50%" valign="top">
 
-### 📦 SGI — Gestión de Inventarios
+### <img src="https://api.iconify.design/lucide/package.svg?color=%23a78bfa" width="20" height="20" align="absmiddle" alt="" /> SGI — Gestión de Inventarios
 API REST para inventario multi-sucursal (minimarkets) con control de acceso por roles (RBAC). Proyecto académico — UTP.
 
 <img src="https://skillicons.dev/icons?i=spring,java,angular,mysql" height="26" alt="Spring Boot, Java, Angular, MySQL" />
@@ -113,7 +113,7 @@ API REST para inventario multi-sucursal (minimarkets) con control de acceso por 
 </td>
 <td width="50%" valign="top">
 
-### 🧵 Threadbare
+### <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23a78bfa" width="20" height="20" align="absmiddle" alt="" /> Threadbare
 Contribución al desarrollo del juego narrativo Threadbare durante el **GamLab 5.0 UTP**.
 
 <img src="https://skillicons.dev/icons?i=godot" height="26" alt="Godot" /> <sub>+ GDScript</sub>
@@ -126,7 +126,7 @@ Contribución al desarrollo del juego narrativo Threadbare durante el **GamLab 5
 
 ---
 
-## 📊 Estadísticas
+## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%2338bdf8" width="24" height="24" align="absmiddle" alt="" /> Estadísticas
 
 <div align="center">
 
