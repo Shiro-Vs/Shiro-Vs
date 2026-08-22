@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg?v=9" width="100%" alt="ShiroVS terminal banner" />
+<img src="./assets/banner.svg?v=10" width="100%" alt="ShiroVs terminal banner" />
 
 <br/>
 
@@ -8,13 +8,39 @@
 
 ### Desarrollador full-stack — cofundador de [Vexa](https://vexa.space/)
 
-Construyo aplicaciones web y móviles de principio a fin: desde el frontend hasta la API y la base de datos.
+<a href="https://github.com/Shiro-Vs">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Construyo+aplicaciones+web+de+principio+a+fin;Frontend+%2B+API+%2B+Base+de+datos;Cofundador+%40+Vexa+%E2%80%94+software+a+medida;console.log(%22Hola%2C+bienvenido+%F0%9F%91%8B%22)" alt="Typing SVG" />
+</a>
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-shirovs.online-black?style=flat-square&logo=vercel&logoColor=white)](https://shirovs.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shirovs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shirovs/)
 [![Vexa](https://img.shields.io/badge/Vexa-vexa.space-6E56CF?style=flat-square)](https://vexa.space/)
+[![Visitas](https://komarev.com/ghpvc/?username=Shiro-Vs&style=flat-square&color=a78bfa&label=Visitas)](https://github.com/Shiro-Vs)
 
 </div>
+
+---
+
+<details>
+<summary><b>🖥️ Click para expandir la terminal — sobre mí</b></summary>
+<br/>
+
+```bash
+$ whoami
+Shiro-Vs — Ingeniero de Sistemas e Informática, Lima, Perú
+
+$ cat mission.txt
+Diseñar y construir software a medida que resuelve problemas reales,
+de punta a punta: frontend, API, base de datos e infraestructura.
+
+$ ls current-focus/
+fivuza/   vantage/   eva/   nuevas-ideas-en-vexa/
+
+$ echo $STATUS
+Disponible para colaborar en proyectos interesantes 🚀
+```
+
+</details>
 
 ---
 

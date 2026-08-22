@@ -1,81 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 400" width="100%" role="img" aria-label="ShiroVS terminal banner">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 600" width="100%" role="img" aria-label="ShiroVs terminal banner">
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b0f1a"/>
-      <stop offset="55%" stop-color="#131a2c"/>
-      <stop offset="100%" stop-color="#1b1030"/>
-    </linearGradient>
     <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="50%" stop-color="#7ee7e0"/>
+      <stop offset="45%" stop-color="#818cf8"/>
       <stop offset="100%" stop-color="#a78bfa"/>
     </linearGradient>
-    <clipPath id="windowClip">
-      <rect x="0" y="0" width="1600" height="400" rx="14"/>
+    <linearGradient id="panelGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0c1120"/>
+      <stop offset="100%" stop-color="#080b16"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0.55"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="22" result="blur"/>
+    </filter>
+    <clipPath id="panelClip">
+      <rect x="4" y="4" width="1152" height="592" rx="16"/>
     </clipPath>
   </defs>
 
-  <g clip-path="url(#windowClip)">
-    <rect width="1600" height="400" fill="url(#bg)"/>
+  <rect x="30" y="24" width="1100" height="552" rx="20" fill="url(#titleGrad)" opacity="0.14" filter="url(#softGlow)"/>
 
-    <!-- title bar -->
-    <rect x="0" y="0" width="1600" height="56" fill="#0d1117"/>
-    <circle cx="30" cy="28" r="9" fill="#ff5f56"/>
-    <circle cx="58" cy="28" r="9" fill="#ffbd2e"/>
-    <circle cx="86" cy="28" r="9" fill="#27c93f"/>
-    <text x="800" y="34" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" fill="#8b93a7">shiro@github ~ profile.sh --live</text>
-    <text x="1508" y="34" text-anchor="end" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#ff5f56">LIVE</text>
-    <circle cx="1526" cy="28" r="6" fill="#ff5f56">
-      <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+  <rect x="4" y="4" width="1152" height="592" rx="16" fill="url(#panelGrad)" stroke="url(#borderGrad)" stroke-width="1.5"/>
+
+  <g clip-path="url(#panelClip)">
+    <rect x="4" y="4" width="1152" height="52" fill="#0e1425"/>
+    <line x1="4" y1="56" x2="1156" y2="56" stroke="#1c2436" stroke-width="1"/>
+
+    <circle cx="38" cy="30" r="7" fill="#ff5f56"/>
+    <circle cx="62" cy="30" r="7" fill="#ffbd2e"/>
+    <circle cx="86" cy="30" r="7" fill="#27c93f"/>
+
+    <text x="580" y="35" text-anchor="middle" font-family="'Cascadia Code','Consolas',monospace" font-size="14" fill="#8b96b3">shiro@github ~ profile.sh --live</text>
+
+    <circle cx="1092" cy="30" r="5" fill="#ff5f56">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
     </circle>
+    <text x="1080" y="35" text-anchor="end" font-family="'Cascadia Code','Consolas',monospace" font-size="12" font-weight="700" letter-spacing="1.5" fill="#ff5f56">LIVE</text>
 
-    <!-- title: real vector font (Press Start 2P), no glyph-ambiguity, no runtime font dependency -->
-    <g transform="translate(80,245.6) scale(1.556)">
-      <path transform="translate(3,3)" fill="#000000" opacity="0.35" d="M75-12.50L12.50-12.50L12.50-25L0-25L0-37.50L25-37.50L25-25L62.50-25L62.50-50L12.50-50L12.50-62.50L0-62.50L0-87.50L12.50-87.50L12.50-100L75-100L75-87.50L87.50-87.50L87.50-75L62.50-75L62.50-87.50L25-87.50L25-62.50L75-62.50L75-50L87.50-50L87.50-25L75-25L75-12.50M125-12.50L100-12.50L100-100L125-100L125-75L175-75L175-62.50L187.50-62.50L187.50-12.50L162.50-12.50L162.50-62.50L125-62.50L125-12.50M262.50-87.50L237.50-87.50L237.50-100L262.50-100L262.50-87.50M287.50-12.50L212.50-12.50L212.50-25L237.50-25L237.50-62.50L225-62.50L225-75L262.50-75L262.50-25L287.50-25L287.50-12.50M337.50-75L337.50-62.50L350-62.50L350-50L337.50-50L337.50-12.50L312.50-12.50L312.50-75L337.50-75M350-75L387.50-75L387.50-62.50L350-62.50L350-75M475-12.50L412.50-12.50L412.50-25L400-25L400-62.50L412.50-62.50L412.50-75L475-75L475-62.50L487.50-62.50L487.50-25L475-25L475-12.50M425-62.50L425-25L462.50-25L462.50-62.50L425-62.50M550-12.50L537.50-12.50L537.50-25L525-25L525-37.50L512.50-37.50L512.50-50L500-50L500-100L525-100L525-62.50L537.50-62.50L537.50-50L550-50L550-62.50L562.50-62.50L562.50-100L587.50-100L587.50-50L575-50L575-37.50L562.50-37.50L562.50-25L550-25L550-12.50M675-12.50L612.50-12.50L612.50-25L600-25L600-37.50L625-37.50L625-25L662.50-25L662.50-50L612.50-50L612.50-62.50L600-62.50L600-87.50L612.50-87.50L612.50-100L675-100L675-87.50L687.50-87.50L687.50-75L662.50-75L662.50-87.50L625-87.50L625-62.50L675-62.50L675-50L687.50-50L687.50-25L675-25"/>
-      <path fill="url(#titleGrad)" d="M75-12.50L12.50-12.50L12.50-25L0-25L0-37.50L25-37.50L25-25L62.50-25L62.50-50L12.50-50L12.50-62.50L0-62.50L0-87.50L12.50-87.50L12.50-100L75-100L75-87.50L87.50-87.50L87.50-75L62.50-75L62.50-87.50L25-87.50L25-62.50L75-62.50L75-50L87.50-50L87.50-25L75-25L75-12.50M125-12.50L100-12.50L100-100L125-100L125-75L175-75L175-62.50L187.50-62.50L187.50-12.50L162.50-12.50L162.50-62.50L125-62.50L125-12.50M262.50-87.50L237.50-87.50L237.50-100L262.50-100L262.50-87.50M287.50-12.50L212.50-12.50L212.50-25L237.50-25L237.50-62.50L225-62.50L225-75L262.50-75L262.50-25L287.50-25L287.50-12.50M337.50-75L337.50-62.50L350-62.50L350-50L337.50-50L337.50-12.50L312.50-12.50L312.50-75L337.50-75M350-75L387.50-75L387.50-62.50L350-62.50L350-75M475-12.50L412.50-12.50L412.50-25L400-25L400-62.50L412.50-62.50L412.50-75L475-75L475-62.50L487.50-62.50L487.50-25L475-25L475-12.50M425-62.50L425-25L462.50-25L462.50-62.50L425-62.50M550-12.50L537.50-12.50L537.50-25L525-25L525-37.50L512.50-37.50L512.50-50L500-50L500-100L525-100L525-62.50L537.50-62.50L537.50-50L550-50L550-62.50L562.50-62.50L562.50-100L587.50-100L587.50-50L575-50L575-37.50L562.50-37.50L562.50-25L550-25L550-12.50M675-12.50L612.50-12.50L612.50-25L600-25L600-37.50L625-37.50L625-25L662.50-25L662.50-50L612.50-50L612.50-62.50L600-62.50L600-87.50L612.50-87.50L612.50-100L675-100L675-87.50L687.50-87.50L687.50-75L662.50-75L662.50-87.50L625-87.50L625-62.50L675-62.50L675-50L687.50-50L687.50-25L675-25"/>
-    </g>
-
-    <text x="80" y="290" font-family="'Courier New', monospace" font-size="28" fill="#7ee787" opacity="0">
-      <tspan>&gt; Full-Stack Developer</tspan>
-      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.018;0.232;0.25;1" dur="10.0s" repeatCount="indefinite"/>
-    </text>
-    <text x="80" y="290" font-family="'Courier New', monospace" font-size="28" fill="#7ee787" opacity="0">
-      <tspan>&gt; Cofundador @ Vexa</tspan>
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.268;0.482;0.5;1" dur="10.0s" repeatCount="indefinite"/>
-    </text>
-    <text x="80" y="290" font-family="'Courier New', monospace" font-size="28" fill="#7ee787" opacity="0">
-      <tspan>&gt; Building EVA &amp; Fivuza</tspan>
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.518;0.732;0.75;1" dur="10.0s" repeatCount="indefinite"/>
-    </text>
-    <text x="80" y="290" font-family="'Courier New', monospace" font-size="28" fill="#7ee787" opacity="0">
-      <tspan>&gt; Lima, Peru</tspan>
-      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.768;0.982;1.0" dur="10.0s" repeatCount="indefinite"/>
+    <text x="50" y="112" font-family="'Cascadia Code','Consolas','DejaVu Sans Mono',monospace" font-size="21" fill="url(#titleGrad)" xml:space="preserve">
+      <tspan x="50" dy="0">  █████████  █████       ███                     █████   █████  █████████ </tspan>
+      <tspan x="50" dy="26"> ███▒▒▒▒▒███▒▒███       ▒▒▒                     ▒▒███   ▒▒███  ███▒▒▒▒▒███</tspan>
+      <tspan x="50" dy="26">▒███    ▒▒▒  ▒███████   ████  ████████   ██████  ▒███    ▒███ ▒███    ▒▒▒ </tspan>
+      <tspan x="50" dy="26">▒▒█████████  ▒███▒▒███ ▒▒███ ▒▒███▒▒███ ███▒▒███ ▒███    ▒███ ▒▒█████████ </tspan>
+      <tspan x="50" dy="26"> ▒▒▒▒▒▒▒▒███ ▒███ ▒███  ▒███  ▒███ ▒▒▒ ▒███ ▒███ ▒▒███   ███   ▒▒▒▒▒▒▒▒███</tspan>
+      <tspan x="50" dy="26"> ███    ▒███ ▒███ ▒███  ▒███  ▒███     ▒███ ▒███  ▒▒▒█████▒    ███    ▒███</tspan>
+      <tspan x="50" dy="26">▒▒█████████  ████ █████ █████ █████    ▒▒██████     ▒▒███     ▒▒█████████ </tspan>
+      <tspan x="50" dy="26"> ▒▒▒▒▒▒▒▒▒  ▒▒▒▒ ▒▒▒▒▒ ▒▒▒▒▒ ▒▒▒▒▒      ▒▒▒▒▒▒       ▒▒▒       ▒▒▒▒▒▒▒▒▒</tspan>
+      <animate attributeName="opacity" values="1;0.88;1" dur="3.2s" repeatCount="indefinite"/>
     </text>
 
-    <rect x="640" y="266" width="14" height="30" fill="#7ee787">
-      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1s" repeatCount="indefinite"/>
+    <line x1="50" y1="325" x2="1110" y2="325" stroke="#232a3d" stroke-width="2" stroke-dasharray="2 5"/>
+
+    <path d="M 50 352 L 50 368 L 63 360 Z" fill="#34d399"/>
+    <clipPath id="typeClip">
+      <rect x="72" y="345" width="0" height="26">
+        <animate attributeName="width" from="0" to="470" dur="1.6s" begin="0.2s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <text x="72" y="365" font-family="'Cascadia Code','Consolas',monospace" font-size="17" font-weight="700" fill="#e6e9f2" clip-path="url(#typeClip)">PowerShell Session Ready</text>
+    <rect x="352" y="349" width="10" height="18" fill="#34d399">
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.062;0.063;1" dur="1.6s" begin="0.2s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;1;0;0" dur="0.9s" begin="1.8s" keyTimes="0;0.5;0.5;1" calcMode="discrete" repeatCount="indefinite"/>
     </rect>
 
-    <!-- status bar -->
-    <g font-family="'Courier New', monospace" font-size="18">
-      <rect x="24" y="344" width="150" height="34" rx="17" fill="#a78bfa"/>
-      <text x="99" y="366" text-anchor="middle" fill="#1b1030" font-weight="bold">ShiroVS</text>
+    <text x="50" y="397" font-family="'Cascadia Code','Consolas',monospace" font-size="15" fill="#8b96b3">// shiro@github &#8226; Full-Stack Developer &#8226; Cofundador de Vexa</text>
 
-      <path d="M174 344 l17 17 l-17 17 z" fill="#f472b6"/>
-      <rect x="191" y="344" width="110" height="34" rx="17" fill="#f472b6"/>
-      <text x="246" y="366" text-anchor="middle" fill="#1b1030" font-weight="bold">~/vexa</text>
+    <line x1="50" y1="415" x2="1110" y2="415" stroke="#1c2436" stroke-width="1" stroke-dasharray="1 4"/>
 
-      <path d="M301 344 l17 17 l-17 17 z" fill="#38bdf8"/>
-      <rect x="318" y="344" width="130" height="34" rx="17" fill="#38bdf8"/>
-      <text x="383" y="366" text-anchor="middle" fill="#0b0f1a" font-weight="bold">build ok</text>
+    <text x="50" y="445" font-family="'Cascadia Code','Consolas',monospace" font-size="14" fill="#c9d1d9">Lima, Per&#250;  &#8226;  Ing. Sistemas e Inform&#225;tica  &#8226;  Building + Shipping</text>
+    <text x="50" y="472" font-family="'Cascadia Code','Consolas',monospace" font-size="14.5" font-weight="600" fill="#e6e9f2">Java &#8226; TypeScript &#8226; React &#8226; Spring Boot &#8226; Django &#8226; MySQL &#8226; Docker</text>
+    <text x="50" y="499" font-family="'Cascadia Code','Consolas',monospace" font-size="13.5" fill="#8b96b3">shirovs.online  &#8226;  /in/shirovs  &#8226;  @Shiro-Vs  &#8226;  vexa.space</text>
 
-      <rect x="1330" y="344" width="90" height="34" rx="17" fill="#27c93f"/>
-      <text x="1375" y="366" text-anchor="middle" fill="#0b0f1a" font-weight="bold">online</text>
+    <line x1="50" y1="518" x2="1110" y2="518" stroke="#1c2436" stroke-width="1" stroke-dasharray="1 4"/>
 
-      <rect x="1428" y="344" width="148" height="34" rx="17" fill="#0d1117" stroke="#2a3350"/>
-      <text x="1502" y="366" text-anchor="middle" fill="#8b93a7">GMT-5 · Lima</text>
-    </g>
+    <text x="50" y="558" font-family="'Cascadia Code','Consolas',monospace" font-size="16" font-weight="700" fill="#38bdf8">PS D:\ShiroVs&gt;</text>
+    <rect x="198" y="544" width="11" height="18" fill="#38bdf8">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1s" keyTimes="0;0.5;0.5;1" calcMode="discrete" repeatCount="indefinite"/>
+    </rect>
   </g>
-
-  <rect x="1" y="1" width="1598" height="398" rx="14" fill="none" stroke="#2a3350" stroke-width="2"/>
 </svg>
