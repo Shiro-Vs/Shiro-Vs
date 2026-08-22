@@ -49,7 +49,7 @@ Disponible para colaborar en proyectos interesantes 🚀
 <table>
 <tr>
 <td valign="top"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=react,ts,angular,vite,tailwind" height="42" alt="React, TypeScript, Angular, Vite, Tailwind" /></td>
-<td valign="top"><b>Mobile</b><br/><br/><img src="https://skillicons.dev/icons?i=react,ts" height="42" alt="React Native, TypeScript" /><br/><sub>React Native · Expo</sub></td>
+<td valign="top"><b>Mobile</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="34" alt="React Native" /> <img src="https://skillicons.dev/icons?i=ts" height="42" alt="TypeScript" /> <img src="https://cdn.simpleicons.org/expo/ffffff" height="30" alt="Expo" /></td>
 <td valign="top"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=java,spring,python,django,firebase" height="42" alt="Java, Spring Boot, Python, Django, Firebase" /></td>
 <td valign="top"><b>DB & infra</b><br/><br/><img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git" height="42" alt="MySQL, PostgreSQL, Docker, Git" /></td>
 </tr>
@@ -99,7 +99,7 @@ Aplicación web de analítica de negocio con API REST en Spring Boot y frontend 
 ### 💰 EVA
 App móvil de finanzas personales: metas de ahorro, planificación de gastos y asistente con IA (Gemini).
 
-<img src="https://skillicons.dev/icons?i=react,ts,firebase" height="26" alt="React Native, TypeScript, Firebase" /> <sub>+ Expo</sub>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="21" alt="React Native" /> <img src="https://skillicons.dev/icons?i=ts,firebase" height="26" alt="TypeScript, Firebase" /> <img src="https://cdn.simpleicons.org/expo/ffffff" height="18" alt="Expo" />
 
 📂 [Ver repo](https://github.com/Shiro-Vs/EVA)
 
