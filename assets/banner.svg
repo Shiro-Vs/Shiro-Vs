@@ -41,7 +41,11 @@
     <circle cx="30" cy="28" r="9" fill="#ff5f56"/>
     <circle cx="58" cy="28" r="9" fill="#ffbd2e"/>
     <circle cx="86" cy="28" r="9" fill="#27c93f"/>
-    <text x="800" y="34" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" fill="#8b93a7">cmd — ShiroVS</text>
+    <text x="800" y="34" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" fill="#8b93a7">shiro@github ~ profile.sh --live</text>
+    <text x="1508" y="34" text-anchor="end" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#ff5f56">LIVE</text>
+    <circle cx="1526" cy="28" r="6" fill="#ff5f56">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
 
     <!-- pixel-art title: pure vector geometry, no text/font dependency -->
     <g>
