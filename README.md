@@ -150,6 +150,13 @@ Contribución al desarrollo del juego narrativo Threadbare durante el **GamLab 5
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shiro-Vs/Shiro-Vs/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Shiro-Vs/Shiro-Vs/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animado comiendo mis contribuciones" />
+</picture>
+
+<br/>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Shiro-Vs&hide_border=true&background=transparent&ring=A78BFA&fire=38BDF8&currStreakNum=E6E9F2&sideNums=E6E9F2&currStreakLabel=38BDF8&sideLabels=8B96B3&dates=8B96B3" />
   <img src="https://streak-stats.demolab.com/?user=Shiro-Vs&hide_border=true&background=transparent&ring=A78BFA&fire=F472B6&currStreakNum=1B1030&sideNums=24292E&currStreakLabel=6E56CF&sideLabels=57606A&dates=57606A" alt="Racha de contribuciones en GitHub" />
 </picture>
