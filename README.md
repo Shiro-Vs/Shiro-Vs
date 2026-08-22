@@ -44,13 +44,30 @@
 
 **[Vexa](https://vexa.space/)** es un estudio donde desarrollamos software a medida para negocios. Estos son productos que construimos ahí:
 
-<img src="./assets/project-fivuza.svg" width="100%" alt="Fivuza" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p><img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23a78bfa" width="16" height="16" align="absmiddle" alt="" /> [Frontend](https://github.com/vexa-dev/FivuzaFrontend) &nbsp;·&nbsp; [Backend](https://github.com/vexa-dev/FivuzaBackend)</p>
+### <img src="https://api.iconify.design/lucide/store.svg?color=%23a78bfa" width="20" height="20" align="absmiddle" alt="" /> Fivuza
+ERP SaaS multi-tenant para pequeños y medianos negocios (bodegas, gimnasios, retail): inventario, ventas y usuarios por tenant.
 
-<img src="./assets/project-vantage.svg" width="100%" alt="Vantage" />
+<img src="https://skillicons.dev/icons?i=django,react,ts,postgres,docker" height="26" alt="Django REST, React, TypeScript, PostgreSQL, Docker" />
 
-<p><img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23a78bfa" width="16" height="16" align="absmiddle" alt="" /> [Frontend](https://github.com/vexa-dev/VantageFrontend) &nbsp;·&nbsp; [Backend](https://github.com/vexa-dev/VantageBackend)</p>
+<img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23a78bfa" width="16" height="16" align="absmiddle" alt="" /> [Frontend](https://github.com/vexa-dev/FivuzaFrontend) &nbsp;·&nbsp; [Backend](https://github.com/vexa-dev/FivuzaBackend)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide/trending-up.svg?color=%23a78bfa" width="20" height="20" align="absmiddle" alt="" /> Vantage
+Aplicación web de analítica de negocio con API REST en Spring Boot y frontend en React + TypeScript.
+
+<img src="https://skillicons.dev/icons?i=spring,java,react,ts" height="26" alt="Spring Boot, Java, React, TypeScript" />
+
+<img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23a78bfa" width="16" height="16" align="absmiddle" alt="" /> [Frontend](https://github.com/vexa-dev/VantageFrontend) &nbsp;·&nbsp; [Backend](https://github.com/vexa-dev/VantageBackend)
+
+</td>
+</tr>
+</table>
 
 <img src="https://api.iconify.design/lucide/globe.svg?color=%2338bdf8" width="16" height="16" align="absmiddle" alt="" /> **[Landing de Vexa](https://github.com/vexa-dev/VexaPage)** — sitio oficial con diseño glassmorphism, portafolio interactivo y formulario de contacto.
 
@@ -58,21 +75,52 @@
 
 ## <img src="https://api.iconify.design/lucide/laptop.svg?color=%2338bdf8" width="24" height="24" align="absmiddle" alt="" /> Proyectos propios
 
-<img src="./assets/project-eva.svg" width="100%" alt="EVA" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p><img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23a78bfa" width="16" height="16" align="absmiddle" alt="" /> [Ver repo](https://github.com/Shiro-Vs/EVA)</p>
+### <img src="https://api.iconify.design/lucide/wallet.svg?color=%23a78bfa" width="20" height="20" align="absmiddle" alt="" /> EVA
+App móvil de finanzas personales: metas de ahorro, planificación de gastos y asistente con IA (Gemini).
 
-<img src="./assets/project-saf.svg" width="100%" alt="SAF Service" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="21" alt="React Native" /> <img src="https://skillicons.dev/icons?i=ts,firebase" height="26" alt="TypeScript, Firebase" /> <img src="https://cdn.simpleicons.org/expo/ffffff" height="18" alt="Expo" />
 
-<p><img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23a78bfa" width="16" height="16" align="absmiddle" alt="" /> [Frontend](https://github.com/Shiro-Vs/Automotriz) &nbsp;·&nbsp; [Backend](https://github.com/Shiro-Vs/AutomotrizBackend)</p>
+<img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23a78bfa" width="16" height="16" align="absmiddle" alt="" /> [Ver repo](https://github.com/Shiro-Vs/EVA)
 
-<img src="./assets/project-sgi.svg" width="100%" alt="SGI — Gestión de Inventarios" />
+</td>
+<td width="50%" valign="top">
 
-<p><img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23a78bfa" width="16" height="16" align="absmiddle" alt="" /> [Frontend](https://github.com/Shiro-Vs/SGI-Frontend) &nbsp;·&nbsp; [Backend](https://github.com/Shiro-Vs/SGI-Backend)</p>
+### <img src="https://api.iconify.design/lucide/car.svg?color=%23a78bfa" width="20" height="20" align="absmiddle" alt="" /> SAF Service
+Sistema de gestión para talleres automotrices: vehículos, clientes, empleados y fichas técnicas.
 
-<img src="./assets/project-threadbare.svg" width="100%" alt="Threadbare" />
+<img src="https://skillicons.dev/icons?i=spring,react,ts,mysql" height="26" alt="Spring Boot, React, TypeScript, MySQL" />
 
-<p><img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23a78bfa" width="16" height="16" align="absmiddle" alt="" /> [Ver repo](https://github.com/Game-Lab-5-0-UTP-Group-4-Team-2/threadbare)</p>
+<img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23a78bfa" width="16" height="16" align="absmiddle" alt="" /> [Frontend](https://github.com/Shiro-Vs/Automotriz) &nbsp;·&nbsp; [Backend](https://github.com/Shiro-Vs/AutomotrizBackend)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide/package.svg?color=%23a78bfa" width="20" height="20" align="absmiddle" alt="" /> SGI — Gestión de Inventarios
+API REST para inventario multi-sucursal (minimarkets) con control de acceso por roles (RBAC). Proyecto académico — UTP.
+
+<img src="https://skillicons.dev/icons?i=spring,java,angular,mysql" height="26" alt="Spring Boot, Java, Angular, MySQL" />
+
+<img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23a78bfa" width="16" height="16" align="absmiddle" alt="" /> [Frontend](https://github.com/Shiro-Vs/SGI-Frontend) &nbsp;·&nbsp; [Backend](https://github.com/Shiro-Vs/SGI-Backend)
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23a78bfa" width="20" height="20" align="absmiddle" alt="" /> Threadbare
+Contribución al desarrollo del juego narrativo Threadbare durante el **GamLab 5.0 UTP**.
+
+<img src="https://skillicons.dev/icons?i=godot" height="26" alt="Godot" /> <sub>+ GDScript</sub>
+
+<img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23a78bfa" width="16" height="16" align="absmiddle" alt="" /> [Ver repo](https://github.com/Game-Lab-5-0-UTP-Group-4-Team-2/threadbare)
+
+</td>
+</tr>
+</table>
 
 ---
 
