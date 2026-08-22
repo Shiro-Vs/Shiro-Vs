@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 600" width="100%" role="img" aria-label="ShiroVs terminal banner">
   <defs>
-    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="titleGrad" gradientUnits="userSpaceOnUse" x1="54" y1="0" x2="1053" y2="0">
       <stop offset="0%" stop-color="#38bdf8"/>
       <stop offset="45%" stop-color="#818cf8"/>
       <stop offset="100%" stop-color="#a78bfa"/>
@@ -42,17 +42,125 @@
     </circle>
     <text x="1080" y="35" text-anchor="end" font-family="'Cascadia Code','Consolas',monospace" font-size="12" font-weight="700" letter-spacing="1.5" fill="#ff5f56">LIVE</text>
 
-    <text x="50" y="112" font-family="'Cascadia Code','Consolas','DejaVu Sans Mono',monospace" font-size="21" fill="url(#titleGrad)" xml:space="preserve">
-      <tspan x="50" dy="0">  █████████  █████       ███                     █████   █████  █████████ </tspan>
-      <tspan x="50" dy="26"> ███▒▒▒▒▒███▒▒███       ▒▒▒                     ▒▒███   ▒▒███  ███▒▒▒▒▒███</tspan>
-      <tspan x="50" dy="26">▒███    ▒▒▒  ▒███████   ████  ████████   ██████  ▒███    ▒███ ▒███    ▒▒▒ </tspan>
-      <tspan x="50" dy="26">▒▒█████████  ▒███▒▒███ ▒▒███ ▒▒███▒▒███ ███▒▒███ ▒███    ▒███ ▒▒█████████ </tspan>
-      <tspan x="50" dy="26"> ▒▒▒▒▒▒▒▒███ ▒███ ▒███  ▒███  ▒███ ▒▒▒ ▒███ ▒███ ▒▒███   ███   ▒▒▒▒▒▒▒▒███</tspan>
-      <tspan x="50" dy="26"> ███    ▒███ ▒███ ▒███  ▒███  ▒███     ▒███ ▒███  ▒▒▒█████▒    ███    ▒███</tspan>
-      <tspan x="50" dy="26">▒▒█████████  ████ █████ █████ █████    ▒▒██████     ▒▒███     ▒▒█████████ </tspan>
-      <tspan x="50" dy="26"> ▒▒▒▒▒▒▒▒▒  ▒▒▒▒ ▒▒▒▒▒ ▒▒▒▒▒ ▒▒▒▒▒      ▒▒▒▒▒▒       ▒▒▒       ▒▒▒▒▒▒▒▒▒</tspan>
+    <g id="title">
+      <rect x="81" y="90" width="121.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="229.5" y="90" width="67.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="391.5" y="90" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="715.5" y="90" width="67.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="823.5" y="90" width="67.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="918" y="90" width="121.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="67.5" y="116" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="108" y="116" width="67.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="175.5" y="116" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="216" y="116" width="27" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="243" y="116" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="378" y="116" width="40.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="702" y="116" width="27" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="729" y="116" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="810" y="116" width="27" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="837" y="116" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="904.5" y="116" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="945" y="116" width="67.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="1012.5" y="116" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="54" y="142" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="67.5" y="142" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="162" y="142" width="40.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="229.5" y="142" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="243" y="142" width="94.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="378" y="142" width="54" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="459" y="142" width="108" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="607.5" y="142" width="81" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="715.5" y="142" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="729" y="142" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="823.5" y="142" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="837" y="142" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="891" y="142" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="904.5" y="142" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="999" y="142" width="40.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="54" y="168" width="27" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="81" y="168" width="121.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="229.5" y="168" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="243" y="168" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="283.5" y="168" width="27" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="310.5" y="168" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="364.5" y="168" width="27" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="391.5" y="168" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="445.5" y="168" width="27" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="472.5" y="168" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="513" y="168" width="27" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="540" y="168" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="594" y="168" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="634.5" y="168" width="27" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="661.5" y="168" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="715.5" y="168" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="729" y="168" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="823.5" y="168" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="837" y="168" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="891" y="168" width="27" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="918" y="168" width="121.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="67.5" y="194" width="108" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="175.5" y="194" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="229.5" y="194" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="243" y="194" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="297" y="194" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="310.5" y="194" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="378" y="194" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="391.5" y="194" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="459" y="194" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="472.5" y="194" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="526.5" y="194" width="40.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="580.5" y="194" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="594" y="194" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="648" y="194" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="661.5" y="194" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="715.5" y="194" width="27" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="742.5" y="194" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="823.5" y="194" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="904.5" y="194" width="108" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="1012.5" y="194" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="67.5" y="220" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="162" y="220" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="175.5" y="220" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="229.5" y="220" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="243" y="220" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="297" y="220" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="310.5" y="220" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="378" y="220" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="391.5" y="220" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="459" y="220" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="472.5" y="220" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="580.5" y="220" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="594" y="220" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="648" y="220" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="661.5" y="220" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="729" y="220" width="40.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="769.5" y="220" width="67.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="837" y="220" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="904.5" y="220" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="999" y="220" width="13.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="1012.5" y="220" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="54" y="246" width="27" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="81" y="246" width="121.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="229.5" y="246" width="54" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="297" y="246" width="67.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="378" y="246" width="67.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="459" y="246" width="67.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="580.5" y="246" width="27" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="607.5" y="246" width="81" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="756" y="246" width="27" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="783" y="246" width="40.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="891" y="246" width="27" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="918" y="246" width="121.5" height="26" fill="url(#titleGrad)" opacity="1" shape-rendering="crispEdges"/>
+      <rect x="67.5" y="272" width="121.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="216" y="272" width="54" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="283.5" y="272" width="67.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="364.5" y="272" width="67.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="445.5" y="272" width="67.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="594" y="272" width="81" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="769.5" y="272" width="40.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
+      <rect x="904.5" y="272" width="121.5" height="26" fill="url(#titleGrad)" opacity="0.5" shape-rendering="crispEdges"/>
       <animate attributeName="opacity" values="1;0.88;1" dur="3.2s" repeatCount="indefinite"/>
-    </text>
+    </g>
 
     <line x1="50" y1="325" x2="1110" y2="325" stroke="#232a3d" stroke-width="2" stroke-dasharray="2 5"/>
 

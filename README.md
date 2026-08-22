@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg?v=10" width="100%" alt="ShiroVs terminal banner" />
+<img src="./assets/banner.svg?v=11" width="100%" alt="ShiroVs terminal banner" />
 
 <br/>
 
