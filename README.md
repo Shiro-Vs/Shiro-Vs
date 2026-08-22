@@ -4,8 +4,6 @@
 
 <br/>
 
-<img src="./assets/avatar.svg" width="150" alt="Shiro avatar" />
-
 ### Desarrollador full-stack — cofundador de [Vexa](https://vexa.space/)
 
 <a href="https://github.com/Shiro-Vs">
@@ -48,12 +46,23 @@ Disponible para colaborar en proyectos interesantes 🚀
 
 <table>
 <tr>
+<td width="75%" valign="top">
+
+<table>
+<tr>
 <td valign="top"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=react,ts,angular,vite,tailwind" height="42" alt="React, TypeScript, Angular, Vite, Tailwind" /></td>
 <td valign="top"><b>Mobile</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="34" alt="React Native" /> <img src="https://skillicons.dev/icons?i=ts" height="42" alt="TypeScript" /> <img src="https://cdn.simpleicons.org/expo/ffffff" height="30" alt="Expo" /></td>
 </tr>
 <tr>
 <td valign="top"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=java,spring,python,django,firebase" height="42" alt="Java, Spring Boot, Python, Django, Firebase" /></td>
 <td valign="top"><b>DB & infra</b><br/><br/><img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git" height="42" alt="MySQL, PostgreSQL, Docker, Git" /></td>
+</tr>
+</table>
+
+</td>
+<td width="25%" align="center" valign="middle">
+<img src="./assets/avatar.svg" width="150" alt="Shiro avatar" />
+</td>
 </tr>
 </table>
 
