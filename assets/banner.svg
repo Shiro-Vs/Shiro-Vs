@@ -180,7 +180,7 @@
 
     <line x1="50" y1="415" x2="1110" y2="415" stroke="#1c2436" stroke-width="1" stroke-dasharray="1 4"/>
 
-    <text x="50" y="445" font-family="'Cascadia Code','Consolas',monospace" font-size="14" fill="#c9d1d9">Lima, Per&#250;  &#8226;  Ing. Sistemas e Inform&#225;tica  &#8226;  Building + Shipping</text>
+    <text x="50" y="445" font-family="'Cascadia Code','Consolas',monospace" font-size="14" fill="#c9d1d9">Lima, Per&#250;  &#8226;  Ing. Software  &#8226;  Building + Shipping</text>
     <text x="50" y="472" font-family="'Cascadia Code','Consolas',monospace" font-size="14.5" font-weight="600" fill="#e6e9f2">Java &#8226; TypeScript &#8226; React &#8226; Spring Boot &#8226; Django &#8226; MySQL &#8226; Docker</text>
     <text x="50" y="499" font-family="'Cascadia Code','Consolas',monospace" font-size="13.5" fill="#8b96b3">shirovs.online  &#8226;  /in/shirovs  &#8226;  @Shiro-Vs  &#8226;  vexa.space</text>
 

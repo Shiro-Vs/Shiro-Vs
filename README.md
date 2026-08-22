@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg?v=11" width="100%" alt="ShiroVs terminal banner" />
+<img src="./assets/banner.svg?v=12" width="100%" alt="ShiroVs terminal banner" />
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 ```bash
 $ whoami
-Shiro-Vs — Ingeniero de Sistemas e Informática, Lima, Perú
+Shiro-Vs — Ingeniero de Software, Lima, Perú
 
 $ cat mission.txt
 Diseñar y construir software a medida que resuelve problemas reales,
