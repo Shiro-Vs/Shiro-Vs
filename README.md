@@ -159,6 +159,10 @@ Contribución al desarrollo del juego narrativo Threadbare durante el **GamLab 5
 
 <div align="center">
 
-📫 Escríbeme por **[LinkedIn](https://www.linkedin.com/in/shirovs/)** o visita **[shirovs.online](https://shirovs.online/)**
+### <img src="https://api.iconify.design/lucide/send.svg?color=%2338bdf8" width="22" height="22" align="absmiddle" alt="" /> Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shirovs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shirovs/)
+[![Instagram](https://img.shields.io/badge/Instagram-shiro.vs-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shiro.vs/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-shirovs.online-black?style=flat-square&logo=vercel&logoColor=white)](https://shirovs.online/)
 
 </div>
