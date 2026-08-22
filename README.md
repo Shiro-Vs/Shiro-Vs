@@ -46,28 +46,14 @@ Disponible para colaborar en proyectos interesantes 🚀
 
 ## 🧠 Stack
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Mobile**
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-**Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Base de datos e infra**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="25%"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=react,ts,angular,vite,tailwind" alt="React, TypeScript, Angular, Vite, Tailwind" /></td>
+<td valign="top" width="25%"><b>Mobile</b><br/><br/><img src="https://skillicons.dev/icons?i=react,ts" alt="React Native, TypeScript" /><br/><sub>React Native · Expo</sub></td>
+<td valign="top" width="25%"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=java,spring,python,django,firebase" alt="Java, Spring Boot, Python, Django, Firebase" /></td>
+<td valign="top" width="25%"><b>DB & infra</b><br/><br/><img src="https://skillicons.dev/icons?i=mysql,docker,git" alt="MySQL, Docker, Git" /></td>
+</tr>
+</table>
 
 ---
 
@@ -175,8 +161,33 @@ Contribución al desarrollo del juego narrativo Threadbare durante el **GamLab 5
 
 <div align="center">
 
-![Stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Shiro-Vs&show_icons=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=7ee787&text_color=c9d1d9&border_color=2a3350)
-![Top Languages](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Shiro-Vs&layout=compact&hide_border=false&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=2a3350)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Shiro-Vs&hide_border=true&background=transparent&ring=A78BFA&fire=38BDF8&currStreakNum=E6E9F2&sideNums=E6E9F2&currStreakLabel=38BDF8&sideLabels=8B96B3&dates=8B96B3" />
+  <img src="https://streak-stats.demolab.com/?user=Shiro-Vs&hide_border=true&background=transparent&ring=A78BFA&fire=F472B6&currStreakNum=1B1030&sideNums=24292E&currStreakLabel=6E56CF&sideLabels=57606A&dates=57606A" alt="Racha de contribuciones en GitHub" />
+</picture>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shiro-Vs&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shiro-Vs&theme=default" width="100%" alt="Estadísticas de GitHub" />
+</picture>
+
+</td>
+<td width="50%" valign="top">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shiro-Vs&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shiro-Vs&theme=default" width="100%" alt="Lenguajes de programación" />
+</picture>
+
+</td>
+</tr>
+</table>
 
 </div>
 
