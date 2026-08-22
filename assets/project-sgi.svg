@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 190" width="100%" role="img" aria-label="SGI — Gestión de Inventarios">
+  <defs>
+    <linearGradient id="pgTitleGrad" gradientUnits="userSpaceOnUse" x1="70" y1="0" x2="500" y2="0">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="pgPanelGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0c1120"/>
+      <stop offset="100%" stop-color="#080b16"/>
+    </linearGradient>
+    <linearGradient id="pgBorderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0.5"/>
+    </linearGradient>
+    <clipPath id="pgClip">
+      <rect x="4" y="4" width="1152" height="182" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <rect x="4" y="4" width="1152" height="182" rx="16" fill="url(#pgPanelGrad)" stroke="url(#pgBorderGrad)" stroke-width="1.5"/>
+
+  <g clip-path="url(#pgClip)" font-family="'Segoe UI', system-ui, -apple-system, Arial, sans-serif">
+    <image href="https://api.iconify.design/lucide/package.svg?color=%23a78bfa" x="36" y="26" width="22" height="22"/>
+    <text x="70" y="43" font-size="20" font-weight="800" fill="url(#pgTitleGrad)">SGI — Gestión de Inventarios</text>
+
+    <text x="36" y="82" font-size="15" fill="#c9d1d9">API REST para inventario multi-sucursal (minimarkets) con control</text>
+    <text x="36" y="104" font-size="15" fill="#c9d1d9">de acceso por roles (RBAC). Proyecto académico — UTP.</text>
+
+    <g font-size="12.5" font-weight="600" fill="#e6e9f2">
+      <rect x="36" y="126" width="132" height="28" rx="14" fill="#101a2e" stroke="url(#pgBorderGrad)" stroke-width="1"/>
+      <text x="102" y="144" text-anchor="middle">Spring Boot</text>
+
+      <rect x="180" y="126" width="64" height="28" rx="14" fill="#101a2e" stroke="url(#pgBorderGrad)" stroke-width="1"/>
+      <text x="212" y="144" text-anchor="middle">Java</text>
+
+      <rect x="256" y="126" width="94" height="28" rx="14" fill="#101a2e" stroke="url(#pgBorderGrad)" stroke-width="1"/>
+      <text x="303" y="144" text-anchor="middle">Angular</text>
+
+      <rect x="362" y="126" width="74" height="28" rx="14" fill="#101a2e" stroke="url(#pgBorderGrad)" stroke-width="1"/>
+      <text x="399" y="144" text-anchor="middle">MySQL</text>
+    </g>
+  </g>
+</svg>
