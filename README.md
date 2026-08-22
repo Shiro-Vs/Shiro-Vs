@@ -161,8 +161,8 @@ Contribución al desarrollo del juego narrativo Threadbare durante el **GamLab 5
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shiro-Vs&theme=default" width="48%" alt="Estadísticas de GitHub" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-Vs&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro-Vs&layout=compact&hide_border=true&theme=default&langs_count=8" width="48%" alt="Top lenguajes por commits" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Shiro-Vs&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Shiro-Vs&layout=compact&hide_border=true&theme=default&langs_count=8" width="48%" alt="Top lenguajes por commits" />
 </picture>
 
 </div>
