@@ -68,7 +68,7 @@ Disponible para colaborar en proyectos interesantes 🚀
 ### 🏪 Fivuza
 ERP SaaS multi-tenant para pequeños y medianos negocios (bodegas, gimnasios, retail): inventario, ventas y usuarios por tenant.
 
-<img src="https://skillicons.dev/icons?i=django,react,ts,docker" height="26" alt="Django REST, React, TypeScript, Docker" />
+<img src="https://skillicons.dev/icons?i=django,react,ts,postgres,docker" height="26" alt="Django REST, React, TypeScript, PostgreSQL, Docker" />
 
 📂 [Frontend](https://github.com/vexa-dev/FivuzaFrontend) &nbsp;·&nbsp; [Backend](https://github.com/vexa-dev/FivuzaBackend)
 
