@@ -19,26 +19,7 @@
 
 ---
 
-<details>
-<summary><b>🖥️ Click para expandir la terminal — sobre mí</b></summary>
-<br/>
-
-```bash
-$ whoami
-Shiro-Vs — Ingeniero de Software, Lima, Perú
-
-$ cat mission.txt
-Diseñar y construir software a medida que resuelve problemas reales,
-de punta a punta: frontend, API, base de datos e infraestructura.
-
-$ ls current-focus/
-fivuza/   vantage/   eva/   nuevas-ideas-en-vexa/
-
-$ echo $STATUS
-Disponible para colaborar en proyectos interesantes 🚀
-```
-
-</details>
+<img src="./assets/bio-card.svg?v=1" width="100%" alt="Ficha de personaje — Shiro-Vs" />
 
 ---
 
