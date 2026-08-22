@@ -19,7 +19,7 @@
 
 ---
 
-<img src="./assets/bio-card.svg?v=1" width="100%" alt="Ficha de personaje — Shiro-Vs" />
+<img src="./assets/bio-card.svg?v=2" width="100%" alt="Ficha de personaje — Shiro-Vs" />
 
 ---
 
