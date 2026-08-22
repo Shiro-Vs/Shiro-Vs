@@ -51,7 +51,7 @@ Disponible para colaborar en proyectos interesantes 🚀
 <td valign="top"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=react,ts,angular,vite,tailwind" height="42" alt="React, TypeScript, Angular, Vite, Tailwind" /></td>
 <td valign="top"><b>Mobile</b><br/><br/><img src="https://skillicons.dev/icons?i=react,ts" height="42" alt="React Native, TypeScript" /><br/><sub>React Native · Expo</sub></td>
 <td valign="top"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=java,spring,python,django,firebase" height="42" alt="Java, Spring Boot, Python, Django, Firebase" /></td>
-<td valign="top"><b>DB & infra</b><br/><br/><img src="https://skillicons.dev/icons?i=mysql,docker,git" height="42" alt="MySQL, Docker, Git" /></td>
+<td valign="top"><b>DB & infra</b><br/><br/><img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git" height="42" alt="MySQL, PostgreSQL, Docker, Git" /></td>
 </tr>
 </table>
 
