@@ -44,11 +44,11 @@ Disponible para colaborar en proyectos interesantes 🚀
 
 ## 🧠 Stack
 
-<table>
+<table width="100%">
 <tr>
 <td width="75%" valign="top">
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=react,ts,angular,vite,tailwind" height="42" alt="React, TypeScript, Angular, Vite, Tailwind" /></td>
 <td valign="top"><b>Mobile</b><br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="34" alt="React Native" /> <img src="https://skillicons.dev/icons?i=ts" height="42" alt="TypeScript" /> <img src="https://cdn.simpleicons.org/expo/ffffff" height="30" alt="Expo" /></td>
